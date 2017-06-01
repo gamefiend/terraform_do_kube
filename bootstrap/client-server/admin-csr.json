@@ -1,0 +1,17 @@
+{
+  "CN": "admin",
+  "hosts": [],
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "US",
+      "L": "Lowell",
+      "O": "system:masters",
+      "OU": "Cluster",
+      "ST": "Massachussets"
+    }
+  ]
+}
